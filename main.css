@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.product{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+
+.products{
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 10px;
+    padding: 7px;
+    padding-left: 60px;
+    padding-right: 10px;
+
+
+}
+
+.bag{
+   
+   color: antiquewhite; 
+   background-color: blue;
+}
+
+span{
+    text-decoration: line-through;
+    color: red;
+}
+
+.price{
+    color: rgb(0, 199, 10);
+    
+}
+
+button{
+    padding-top: 7px;
+    padding-right: 50px;
+    padding-bottom: 7px;
+    padding-left: 50px;
+}
